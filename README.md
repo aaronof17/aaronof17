@@ -38,7 +38,6 @@
 ![Express](https://img.shields.io/badge/Express-F66624?style=for-the-badge&logo=express&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-FCC656?style=for-the-badge&logo=oracle&logoColor=white)
 
-![Snake animation](https://github.com/aaronof17/aaronof17/blob/output/github-contribution-grid-snake.svg)
 
 ## 🎄 Others
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronof17&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
