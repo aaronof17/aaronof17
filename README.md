@@ -2,10 +2,10 @@
 
 
 ## 🙋‍♂️ About me
-- I'm studying Software Engineering in UniOvi
+- Software Engineering in UniOvi
 
 ## 🐸 Contacts
-- 🤹‍♂️ UO281997@uniovi.es
+- 🤹‍♂️ aaronorozco02@hotmail.com
 - 🌚 aaronof17 on instagram
 
 ## 💻 Some things that can use
